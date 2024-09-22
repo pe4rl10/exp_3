@@ -10,6 +10,7 @@ function App() {
         <Navbar/>
         Hello World!!
         Stash Example Here!!
+        This is clone repo
         <HeroSelection/>
       </div>
     </>
